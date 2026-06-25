@@ -83,6 +83,7 @@ heart-disease-predictor/
 ├── LogisticRegression_heart.pkl  # Trained model
 ├── scaler.pkl                    # StandardScaler
 ├── columns.pkl                   # Feature columns
+├── heart_disease_models          # all models notebook file
 ├── requirements.txt              # Dependencies
 └── README.md                     # Project documentation
 ```
